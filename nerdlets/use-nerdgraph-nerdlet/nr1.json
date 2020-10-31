@@ -1,0 +1,6 @@
+{
+    "schemaType": "NERDLET",
+    "id": "use-nerdgraph-nerdlet",
+    "displayName": "Data Explorer",
+    "description": "Use this application to get data from different sub accounts in Newrelic."
+}
